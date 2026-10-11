@@ -4,7 +4,7 @@
 #
 #    pip-compile setup.py
 #
-click==7.0                # via flask
+click==8.5.0                # via flask
 flask-sqlalchemy==2.4.1
 flask-wtf==0.14.2
 flask==1.1.1
